@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+#Use /out if you only want to ignore the root-level folder.
+/out
+#Use out/ if you want to ignore all such folders everywhere.
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Logs
+*.log

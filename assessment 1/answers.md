@@ -10,3 +10,5 @@ But model class is just one type of class others are as Util, enum, service, con
 When the object is created an instance of will be create in heap memory. But class will not take that much memory (forgot where in memory class located)
 
 Book sampleBook = new Book();
+
+//فایل‌های تکالیف را طبق نام‌ها بالا اضافه کن (Day01_Book.java ... Day13_Review.md).
